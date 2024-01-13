@@ -1,0 +1,344 @@
+.modal {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.modal .overlap-wrapper {
+  height: 879px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.modal .overlap {
+  background-image: url(https://cdn.animaapp.com/projects/65994cc167b7339261665c3e/releases/659bb63df8c0a7ce7bd372ec/img/268-14-colorful-graph-arrows-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 884px;
+  position: relative;
+  top: -2px;
+}
+
+.modal .overlap-group {
+  height: 78px;
+  left: 470px;
+  position: absolute;
+  top: 30px;
+  width: 500px;
+}
+
+.modal .some-tag-linesome {
+  color: #383737;
+  font-family: "Montserrat", Helvetica;
+  font-size: 22px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 42px;
+}
+
+.modal .group {
+  height: 78px;
+  left: 63px;
+  position: absolute;
+  top: 0;
+  width: 376px;
+}
+
+.modal .let-s-collaborate {
+  color: #204aab;
+  font-family: "Sansation-Bold", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.modal .line {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 78px;
+  width: 374px;
+}
+
+.modal .div {
+  height: 89px;
+  left: 351px;
+  position: absolute;
+  top: 140px;
+  width: 338px;
+}
+
+.modal .div-wrapper {
+  background-color: #ffffff;
+  border: 2px solid;
+  border-color: #204aab;
+  border-radius: 10px;
+  box-shadow: 4px 4px 4px #0000004c;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 334px;
+}
+
+.modal .div-2 {
+  color: #383737;
+  font-family: "Montserrat", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+}
+
+.modal .text-wrapper {
+  color: #383737;
+  font-family: "Montserrat", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.modal .span {
+  font-size: 12px;
+}
+
+.modal .referal-by {
+  color: #383636;
+  font-family: "Montserrat", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.modal .overlap-2 {
+  height: 89px;
+  left: 755px;
+  position: absolute;
+  top: 140px;
+  width: 338px;
+}
+
+.modal .group-2 {
+  height: 89px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 338px;
+}
+
+.modal .referal-to {
+  color: #383737;
+  font-family: "Montserrat", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.modal .img {
+  height: 9px;
+  left: 297px;
+  position: absolute;
+  top: 59px;
+  width: 17px;
+}
+
+.modal .overlap-group-wrapper {
+  height: 354px;
+  left: 270px;
+  position: absolute;
+  top: 250px;
+  width: 904px;
+}
+
+.modal .overlap-3 {
+  background-color: #dadada80;
+  border-radius: 40px;
+  height: 354px;
+  position: relative;
+  width: 900px;
+}
+
+.modal .overlap-4 {
+  background-color: #ffffff;
+  border: 1.5px solid;
+  border-color: #204aab;
+  border-radius: 10px;
+  box-shadow: 4px 4px 4px #0000004c;
+  height: 60px;
+  left: 81px;
+  position: absolute;
+  top: 76px;
+  width: 334px;
+}
+
+.modal .text-wrapper-2 {
+  color: #383737;
+  font-family: "Montserrat", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+}
+
+.modal .overlap-5 {
+  height: 60px;
+  left: 81px;
+  position: absolute;
+  top: 171px;
+  width: 742px;
+}
+
+.modal .rectangle {
+  background-color: #ffffff;
+  border: 2px solid;
+  border-color: #204aab;
+  border-radius: 10px;
+  box-shadow: 4px 4px 4px #0000004c;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 334px;
+}
+
+.modal .group-3 {
+  height: 60px;
+  left: 23px;
+  position: absolute;
+  top: 0;
+  width: 719px;
+}
+
+.modal .referring-for-wrapper {
+  background-color: #ffffff;
+  border: 2px solid;
+  border-color: #204aab;
+  border-radius: 10px;
+  box-shadow: 4px 4px 4px #0000004c;
+  height: 60px;
+  left: 381px;
+  position: absolute;
+  top: 0;
+  width: 334px;
+}
+
+.modal .text-wrapper-3 {
+  color: #383737;
+  font-family: "Montserrat", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+}
+
+.modal .text-wrapper-4 {
+  color: #383737;
+  font-family: "Montserrat", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+}
+
+.modal .text-wrapper-5 {
+  color: #204aab;
+  font-family: "Montserrat", Helvetica;
+  font-size: 38px;
+  font-weight: 500;
+  left: 383px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+}
+
+.modal .group-4 {
+  height: 60px;
+  left: 485px;
+  position: absolute;
+  top: 76px;
+  width: 336px;
+}
+
+.modal .phone-number-wrapper {
+  background-color: #ffffff;
+  border: 2px solid;
+  border-color: #204aab;
+  border-radius: 10px;
+  box-shadow: 4px 4px 4px #0000004c;
+  height: 60px;
+  position: relative;
+  width: 334px;
+  left: -22px;
+}
+
+.modal .group-5 {
+  height: 60px;
+  left: 283px;
+  position: absolute;
+  top: 266px;
+  width: 336px;
+}
+
+.modal .overlap-6 {
+  background-color: #204aab;
+  border-radius: 10px;
+  box-shadow: 4px 4px 4px #0000004c;
+  height: 60px;
+  position: relative;
+  width: 334px;
+  border: white;
+  color: white;
+  font-size: 25px;
+}
+
+.modal .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 600;
+  left: 116px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 4px 4px 4px #00000040;
+  top: 13px;
+}
+
+.modal .close-circle-line {
+  height: 38px;
+  left: 1377px;
+  position: absolute;
+  top: 25px;
+  width: 38px;
+}

@@ -1,0 +1,226 @@
+.reset {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.reset .group-wrapper {
+  background-size: 100% 100%;
+  height: 100vh;
+  width: 100%;
+}
+.reset .inp1 {
+  width: 360px;
+  height: 60px;
+  border-radius: 20px;
+  padding-left: 35px;
+}
+
+.reset .group {
+  height: 100vh;
+  position: relative;
+  width: 50%;
+  border: 1px solid black;
+  background-color: #0d3465;
+}
+
+.reset .img {
+  height: 50%;
+  left: 25%;
+  position: absolute;
+  top: 25%;
+  width: 50%;
+}
+
+.reset .overlap {
+  background-color: #ffffff;
+  height: 100vh;
+  left: 50%;
+  position: absolute;
+  top: 0;
+  width: 50%;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
+
+.reset .div {
+  height: 416px;
+  left: 80px;
+  position: relative;
+  width: 100%;
+}
+.reset .error-message {
+  color: red;
+  position: relative;
+  top: 35%;
+  font-size: 18px;
+}
+.reset .btn1 {
+  width: 400px;
+  height: 60px;
+  border-radius: 20px;
+  position: relative;
+  top: 40%;
+  background-color: #0d3465;
+  color: white;
+  cursor: pointer;
+}
+.reset .div-wrapper {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 253px;
+  width: 400px;
+}
+
+.reset .overlap-group-wrapper {
+  height: 60px;
+  width: 402px;
+}
+
+.reset .overlap-group {
+  background-size: 100% 100%;
+  height: 60px;
+  position: relative;
+  width: 400px;
+}
+
+.reset .text-wrapper {
+  color: #ffffff;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-size: 28px;
+  font-weight: 600;
+  left: 149px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+}
+
+.reset .text-wrapper-2 {
+  color: #0d3465;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 250%;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -10%;
+}
+
+.reset .group-2 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  width: 400px;
+}
+
+.reset .overlap-group-2 {
+  background-size: 100% 100%;
+  height: 61px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 401px;
+}
+
+.reset .text-wrapper-3 {
+  color: #121010;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.reset .b {
+  height: 29px;
+  left: 16px;
+  position: absolute;
+  top: 17px;
+  width: 27px;
+}
+
+.reset .group-3 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 163px;
+  width: 400px;
+}
+
+.reset .overlap-group-3 {
+  background-size: 100% 100%;
+  height: 61px;
+  left: -1px;
+  position: relative;
+  top: 228px;
+  width: 401px;
+}
+.reset .overlap-group-4 {
+  background-size: 100% 100%;
+  height: 61px;
+  left: -1px;
+  position: relative;
+  top: 22%;
+  width: 401px;
+}
+.reset .overlap-group-5 {
+  background-size: 100% 100%;
+  height: 61px;
+  left: -1px;
+  position: relative;
+  top: -11%;
+  width: 401px;
+}
+.reset .signin {
+  color: skyblue;
+  padding: 5px;
+}
+.reset .b-2 {
+  height: 32px;
+  left: 16px;
+  position: absolute;
+  top: 15px;
+  width: 24px;
+}
+
+.reset .don-t-have-an {
+  color: transparent;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  left: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 390px;
+}
+
+.reset .span {
+  color: #121010;
+}
+
+.reset .text-wrapper-4 {
+  color: #0d3465;
+  text-decoration: underline;
+}
+
+.reset .text-wrapper-5 {
+  color: #121010;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 130%;
+  font-weight: 400;
+  left: 18%;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 102%;
+}

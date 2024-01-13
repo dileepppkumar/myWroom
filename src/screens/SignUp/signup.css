@@ -1,0 +1,222 @@
+.signup {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.signup .group-wrapper {
+  background-size: 100% 100%;
+  height: 100vh;
+  width: 100%;
+}
+.signup .inp1 {
+  width: 360px;
+  height: 60px;
+  border-radius: 20px;
+  padding-left: 35px;
+}
+
+.signup .group {
+  height: 100vh;
+  position: relative;
+  width: 50%;
+  border: 1px solid black;
+  background-color: #0d3465;
+}
+
+.signup .img {
+  height: 50%;
+  left: 25%;
+  position: absolute;
+  top: 25%;
+  width: 50%;
+}
+
+.signup .overlap {
+  background-color: #ffffff;
+  height: 100vh;
+  left: 50%;
+  position: absolute;
+  top: 0;
+  width: 50%;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
+
+.signup .div {
+  height: 416px;
+  left: 80px;
+  position: relative;
+  width: 100%;
+}
+
+.signup .btn1 {
+  width: 400px;
+  height: 60px;
+  border-radius: 20px;
+  position: relative;
+  top: 40%;
+  background-color: #0d3465;
+  color: white;
+  cursor: pointer;
+}
+.signup .div-wrapper {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 253px;
+  width: 400px;
+}
+
+.signup .overlap-group-wrapper {
+  height: 60px;
+  width: 402px;
+}
+
+.signup .overlap-group {
+  background-size: 100% 100%;
+  height: 60px;
+  position: relative;
+  width: 400px;
+}
+
+.signup .text-wrapper {
+  color: #ffffff;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-size: 28px;
+  font-weight: 600;
+  left: 149px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+}
+
+.signup .text-wrapper-2 {
+  color: #0d3465;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 35%;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -11%;
+}
+
+.signup .group-2 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  width: 400px;
+}
+
+.signup .overlap-group-2 {
+  background-size: 100% 100%;
+  height: 61px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 401px;
+}
+
+.signup .text-wrapper-3 {
+  color: #121010;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.signup .b {
+  height: 29px;
+  left: 16px;
+  position: absolute;
+  top: 17px;
+  width: 27px;
+}
+
+.signup .group-3 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 163px;
+  width: 400px;
+}
+
+.signup .overlap-group-3 {
+  background-size: 100% 100%;
+  height: 61px;
+  left: -1px;
+  position: relative;
+  top: 228px;
+  width: 401px;
+}
+.signup .overlap-group-4 {
+  background-size: 100% 100%;
+  height: 61px;
+  left: -1px;
+  position: relative;
+  top: 22%;
+  width: 401px;
+}
+.signup .overlap-group-5 {
+  background-size: 100% 100%;
+  height: 61px;
+  left: -1px;
+  position: relative;
+  top: -11%;
+  width: 401px;
+}
+.signup .signin {
+  color: skyblue;
+  padding: 5px;
+}
+.signup .b-2 {
+  height: 32px;
+  left: 16px;
+  position: absolute;
+  top: 15px;
+  width: 24px;
+}
+
+.signup .don-t-have-an {
+  color: transparent;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  left: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 390px;
+}
+
+.signup .span {
+  color: #121010;
+}
+
+.signup .text-wrapper-4 {
+  color: #0d3465;
+  text-decoration: underline;
+}
+
+.signup .text-wrapper-5 {
+  color: #121010;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 130%;
+  font-weight: 400;
+  left: 18%;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 102%;
+}
