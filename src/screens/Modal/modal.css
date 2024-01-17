@@ -7,23 +7,22 @@
 }
 
 .modal .overlap-wrapper {
-  height: 879px;
+  height: 100vh;
   overflow: hidden;
-  width: 1440px;
+  width: 100%;
 }
 
 .modal .overlap {
   background-image: url(https://cdn.animaapp.com/projects/65994cc167b7339261665c3e/releases/659bb63df8c0a7ce7bd372ec/img/268-14-colorful-graph-arrows-1.png);
   background-position: 50% 50%;
   background-size: cover;
-  height: 884px;
+  height: 100vh;
   position: relative;
-  top: -2px;
 }
 
 .modal .overlap-group {
   height: 78px;
-  left: 470px;
+  left: 35%;
   position: absolute;
   top: 30px;
   width: 500px;
@@ -72,8 +71,8 @@
 
 .modal .div {
   height: 89px;
-  left: 351px;
-  position: absolute;
+  left: 30%;
+  position: relative;
   top: 140px;
   width: 338px;
 }
@@ -129,8 +128,8 @@
 
 .modal .overlap-2 {
   height: 89px;
-  left: 755px;
-  position: absolute;
+  left: 32%;
+  position: relative;
   top: 140px;
   width: 338px;
 }
@@ -165,9 +164,9 @@
 
 .modal .overlap-group-wrapper {
   height: 354px;
-  left: 270px;
-  position: absolute;
-  top: 250px;
+  left: 25%;
+  position: relative;
+  top: 180px;
   width: 904px;
 }
 
@@ -320,6 +319,7 @@
   border: white;
   color: white;
   font-size: 25px;
+  cursor: pointer;
 }
 
 .modal .text-wrapper-6 {

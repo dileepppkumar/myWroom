@@ -1,0 +1,124 @@
+/* form.css */
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.page-container {
+  margin: 10%;
+  margin: 10%;
+  background-color: skyblue;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: skyblue;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 1550px;
+  margin: 10%;
+  background-color: skyblue;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.ff-form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+}
+
+.text-wrapper {
+  padding: 20px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.subtitle {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.form-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.form-field {
+  margin-bottom: 20px;
+  width: calc(50% - 10px);
+  height: 50px;
+  border-radius: 20px;
+}
+input {
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+  gap: 10px;
+  text-align: center;
+}
+.work {
+  width: 200%;
+  position: relative;
+  top: 68px;
+  left: -110%;
+}
+.talent {
+  width: 150%;
+}
+.contacts-title,
+.business-goal-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 40px;
+  width: 100%;
+}
+
+.contact-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+  gap: 15px;
+}
+
+.contact-wrapper .form-field {
+  width: calc(33.33% - 10px);
+}
+
+.business-goal-section {
+  width: 100%;
+}
+
+.business-goal-section .form-field {
+  width: 100%;
+}
+
+.business-goal-section input {
+  width: calc(100% - 10px);
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+/* Add any additional styling as needed */

@@ -253,7 +253,6 @@ export const Portfolio = () => {
                         >
                           Refer Now
                         </button>
-                        <div className="rectangle" />
                       </div>
                     </div>
                   </div>
@@ -724,11 +723,10 @@ export const Portfolio = () => {
         <div className="group-102">
           <div
             style={{
-              width: "80%",
+              width: "50%",
               height: "90%",
               position: "relative",
               top: "9%",
-              left: "10%",
             }}
           >
             <FacebookIcon
